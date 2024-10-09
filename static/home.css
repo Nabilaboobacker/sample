@@ -78,7 +78,7 @@ nav ul li a {
 
 #about {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     padding: 50px 10%;
     border-top: 1px solid #444;
